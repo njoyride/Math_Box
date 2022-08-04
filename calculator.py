@@ -10,9 +10,3 @@ def multiply(a, b):
 
 def divide_new (a, b):
 	return a/b
-
-def say_hello():
-	print("Hello")
-
-def say_hello2():
-	print("Hello")
